@@ -19,12 +19,13 @@ public class PartyServer : Node2D
         Server.Connect("client_disconnected", this, "Disconnected");
         Server.Connect("client_close_request", this, "CloseRequest"); // we can ignore
         Server.Connect("data_received", this, "OnData");
-        
+
         // try to listen, I guess.
-        Error e = Server.Listen(PORT, null, true);
+        Server.BindIp = "192.168.1.9";
+        Error e = Server.Listen(PORT, null, false);
         if (e != Error.Ok)
         {
-            GD.Print("Unable to start server... crud.");
+            GD.Print("Unable to start server: "+e);
            
         }
         else
@@ -39,6 +40,7 @@ public class PartyServer : Node2D
     {
         
         Server.Poll();
+         
     }
 
     public void Connected(int id, String proto)

@@ -1,0 +1,8 @@
+D:\Godot\party-game\Party Server\.mono\temp\bin\Debug\Party Server.dll
+D:\Godot\party-game\Party Server\.mono\temp\bin\Debug\Party Server.pdb
+D:\Godot\party-game\Party Server\.mono\temp\obj\Debug\Party Server.csprojAssemblyReference.cache
+D:\Godot\party-game\Party Server\.mono\temp\obj\Debug\Party Server.AssemblyInfoInputs.cache
+D:\Godot\party-game\Party Server\.mono\temp\obj\Debug\Party Server.AssemblyInfo.cs
+D:\Godot\party-game\Party Server\.mono\temp\obj\Debug\Party Server.csproj.CoreCompileInputs.cache
+D:\Godot\party-game\Party Server\.mono\temp\obj\Debug\Party Server.dll
+D:\Godot\party-game\Party Server\.mono\temp\obj\Debug\Party Server.pdb
