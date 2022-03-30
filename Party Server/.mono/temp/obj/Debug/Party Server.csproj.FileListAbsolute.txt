@@ -6,3 +6,11 @@ D:\Godot\party-game\Party Server\.mono\temp\obj\Debug\Party Server.AssemblyInfo.
 D:\Godot\party-game\Party Server\.mono\temp\obj\Debug\Party Server.csproj.CoreCompileInputs.cache
 D:\Godot\party-game\Party Server\.mono\temp\obj\Debug\Party Server.dll
 D:\Godot\party-game\Party Server\.mono\temp\obj\Debug\Party Server.pdb
+C:\Users\2023HillMs\Desktop\PortableGit\godot\Party-Game\Party Server\.mono\temp\bin\Debug\Party Server.dll
+C:\Users\2023HillMs\Desktop\PortableGit\godot\Party-Game\Party Server\.mono\temp\bin\Debug\Party Server.pdb
+C:\Users\2023HillMs\Desktop\PortableGit\godot\Party-Game\Party Server\.mono\temp\obj\Debug\Party Server.csprojAssemblyReference.cache
+C:\Users\2023HillMs\Desktop\PortableGit\godot\Party-Game\Party Server\.mono\temp\obj\Debug\Party Server.AssemblyInfoInputs.cache
+C:\Users\2023HillMs\Desktop\PortableGit\godot\Party-Game\Party Server\.mono\temp\obj\Debug\Party Server.AssemblyInfo.cs
+C:\Users\2023HillMs\Desktop\PortableGit\godot\Party-Game\Party Server\.mono\temp\obj\Debug\Party Server.csproj.CoreCompileInputs.cache
+C:\Users\2023HillMs\Desktop\PortableGit\godot\Party-Game\Party Server\.mono\temp\obj\Debug\Party Server.dll
+C:\Users\2023HillMs\Desktop\PortableGit\godot\Party-Game\Party Server\.mono\temp\obj\Debug\Party Server.pdb

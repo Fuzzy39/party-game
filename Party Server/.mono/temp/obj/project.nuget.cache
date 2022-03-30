@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+rXqF1WFFCylm6Gq2uksHh2fl/zMALNAfPbZKf2coD2ziv6z4qT72FeZJpkmtvooH2ErAamCEKw75XApWvZCxw==",
+  "dgSpecHash": "cxRvB0A4HR4q33NCNENzyHlstBEvZbWKSfARXkU02NCN6ndSjp+4z1mdag9+Qh1yK7cB05avPeNMm6lbOoPCyw==",
   "success": true,
-  "projectFilePath": "D:\\Godot\\party-game\\Party Server\\Party Server.csproj",
+  "projectFilePath": "C:\\Users\\2023HillMs\\Desktop\\PortableGit\\godot\\Party-Game\\Party Server\\Party Server.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
