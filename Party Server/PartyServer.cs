@@ -21,7 +21,7 @@ public class PartyServer : Node2D
 		Server.Connect("data_received", this, "OnData");
 
 		// try to listen, I guess.
-		Server.BindIp = "172.16.112.39";
+		Server.BindIp = "172.16.112.34";
 		Error e = Server.Listen(PORT, null, false);
 		if (e != Error.Ok)
 		{
@@ -77,9 +77,14 @@ public class PartyServer : Node2D
 
 	public void OnData(int id)
 	{
-		String packet = Server.GetPeer(id).GetPacket().ToString();
+		byte[] packet = Server.GetPeer(id).GetPacket();
+		String message = System.Text.Encoding.UTF8.GetString(packet);
+		
 
-		print("Client " + id + " Sent: " + packet);
+
+		print("Client " + id + " Sent: " + message);
+		GD.Print( Server.GetPeer(id).GetPacket());
+		
 
 	}
 
